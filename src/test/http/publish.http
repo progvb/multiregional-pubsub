@@ -1,0 +1,7 @@
+###
+POST http://localhost:8080/publish
+Content-Type: application/json
+
+test3
+
+<> 2021-11-30T192936.500.json

@@ -1,0 +1,6 @@
+publisher:
+  topic-endpoints:
+  - topic: projects/misha-onboarding/topics/dev-tokyo
+    endpoint: asia-northeast1-pubsub.googleapis.com
+  - topic: projects/misha-onboarding/topics/dev-osaka
+    endpoint: asia-northeast2-pubsub.googleapis.com
